@@ -1,0 +1,33 @@
+header{
+    background-color: aquamarine;
+    text-align: center;
+}
+table{
+    width: 100%;
+}
+td{
+    border: 1px black solid;
+}
+.datos{
+    width: 50%;
+    background-color: rgb(121, 195, 197);
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    display: inline-block;
+}
+main{
+    margin-left: 50px;
+}
+img{
+    width: 500px;
+}
+.etiqueta{
+    display: inline-block;
+}
+footer{
+    background-color: #b470f5;
+    text-align: center;
+    margin: 20px;
+}
